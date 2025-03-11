@@ -1,0 +1,20 @@
+.user-profile-container {
+    padding: 24px;
+    background: #f0f2f5;
+    min-height: 100vh;
+  }
+  
+  @media (max-width: 768px) {
+    .user-profile-container {
+      padding: 16px;
+    }
+  }
+  
+  .user-profile-container .ant-card {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+  
+  .user-profile-container .ant-form-item {
+    margin-bottom: 16px;
+  }
