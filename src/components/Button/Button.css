@@ -1,9 +1,0 @@
-.custom-button {
-    border-radius: 4px;
-    font-weight: 500;
-    transition: all 0.3s ease;
-  }
-  
-  .custom-button:hover {
-    opacity: 0.9;
-  }
